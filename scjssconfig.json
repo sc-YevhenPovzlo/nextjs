@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\inetpub\\wwwroot\\sc1020xp1\\sc1020xp1CM.local",
+    "apiKey": "{77431104-EC77-4072-B8F4-DE6FE1C0675E}",
+    "deploySecret": "mhfqe1cqfiot73c9p03etm4has8kx77mwn31087lnsx",
+    "deployUrl": "https://sc1020xp1cm.local/sitecore/api/jss/import",
+    "layoutServiceHost": "https://sc1020xp1cd.local"
+  }
+}
